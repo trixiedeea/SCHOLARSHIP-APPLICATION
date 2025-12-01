@@ -1,5 +1,3 @@
-# SCHOLARSHIP-APPLICATION
-
 Scholarship Application Presentation Script
 "Building Accessible Technology: Impacting Communities Through Innovation and Leadership”
 
@@ -24,7 +22,7 @@ I am a multi-linguist fluent in French, English, JavaScript and python and an av
 
 ---
 
- 🎬 SLIDES 4/5 — My Proudest Project: The Board Game
+ 🎬 SLIDES 5/6 — My Proudest Project: The Board Game
 SCRIPT:
 “The project I'm most proud of is a simple board game I created, coded, and developed for a class project. It is a fully interactive digital board game built entirely with JavaScript and HTML, hosted on github and completely browser based with no downloads. I handled everything from start to finish: —ideation, prototyping, coding, debugging, interface design, and user testing. I completed the class with a grade of 97% overall.  
 
@@ -34,17 +32,7 @@ Due to course deadlines, I was forced to hand in a skeleton copy, and then finis
 
 (I strongly encourage the members of the Scholarship Committee to visit my GitHub page and check it out. The URL is included at the end of this presentation with a link to the github page that is currently hosting my code for the game.")
 
-
- 🎬 SLIDES 6/7 — Founding My IT Company: A New Model
-
-SCRIPT:
-“In 2017, I started my own IT company, Storybook Solutions. The initial reason was simple and accidental: I had several friends with small businesses who desperately needed IT support but couldn't afford it. They asked my advice and I offered to help; word of my capability and affordability for computer tech related issues spread throughout the community. My clients were small businesses, nonprofits, start-ups, and grassroots organizations—people who didn't need and couldn't afford full-time IT services but, with all the ransomware, cyberattacks, system upgrades, and technology that's part of the workforce now, they needed someone they could trust to help them navigate it. 
-
-I became that person. From fixing computer hardware, to upgrading RAM, hard drives or SSDs, to installing programs and creating manuals, to helping them secure their systems from threats and educating them and their staff in network safety—basically, if it had to do with computer technology, my clients got in the habit of calling me.
- 
-I'm proud to say that none of them have suffered any serious data breaches since I've been working with them and though two were hit with ransomware, neither had to pay a dime because I simply wiped their systems clean and reinstalled them from the backups with very little lost. At my busiest I had 8 regular clients I would see weekly or bi-weekly, another 7 or so whom I saw quarterly, about 10 on a semi-annual basis and then any number of people who would call me for one off jobs like building them a computer or recovering a non-responsive unit.
-
- 🎬 SLIDE 8 — My Technical Contributions to Information Environments
+🎬 SLIDE 7 — My Technical Contributions to Information Environments
 
 SCRIPT:
 "My work spans the full spectrum of IT services. I've done web development and UI design. I've repaired computers—both hardware and software. I've set up networks and backup solutions. I've provided cybersecurity services and white-hat hacking—always with permission—to provide net-sec education. I've developed and debugged games. I've created educational materials and manuals to make technology accessible to non-technical users. Every service I provide is designed with one goal in mind: to empower people to use technology confidently and securely. To make it accessible to everyone.
@@ -62,7 +50,19 @@ VISUAL SKILLS LIST
 
 ---
 
- 🎬 SLIDES 9/10 — Theme: Impacting Diverse Communities
+
+
+ 🎬 9/10  — Founding My IT Company: A New Model
+
+SCRIPT:
+“In 2017, I started my own IT company, Storybook Solutions. The initial reason was simple and accidental: I had several friends with small businesses who desperately needed IT support but couldn't afford it. They asked my advice and I offered to help; word of my capability and affordability for computer tech related issues spread throughout the community. My clients were small businesses, nonprofits, start-ups, and grassroots organizations—people who didn't need and couldn't afford full-time IT services but, with all the ransomware, cyberattacks, system upgrades, and technology that's part of the workforce now, they needed someone they could trust to help them navigate it. 
+
+I became that person. From fixing computer hardware, to upgrading RAM, hard drives or SSDs, to installing programs and creating manuals, to helping them secure their systems from threats and educating them and their staff in network safety—basically, if it had to do with computer technology, my clients got in the habit of calling me.
+ 
+I'm proud to say that none of them have suffered any serious data breaches since I've been working with them and though two were hit with ransomware, neither had to pay a dime because I simply wiped their systems clean and reinstalled them from the backups with very little lost. At my busiest I had 8 regular clients I would see weekly or bi-weekly, another 7 or so whom I saw quarterly, about 10 on a semi-annual basis and then any number of people who would call me for one off jobs like building them a computer or recovering a non-responsive unit.
+
+
+ 🎬 SLIDES 11/12— Theme: Impacting Diverse Communities
 
 SCRIPT:
 
@@ -74,7 +74,7 @@ I made sure my services were accessible in every sense of the word—financially
 
 Technology should not be a weapon used against us. It should be a tool that empowers us. It should not be intimidating. It should be accessible. That is the impact I had. One of my clients, owners of Okanagan Pro Painting and parents of a special needs child received a ransomware demand of $750,000. The owner’s wife called me incredibly distraught as this would have bankrupted them. I told her not to worry and not to pay as data losses would be minimal since everything had been cloned a week ago. She burst in to tears and called me an Angel and I swear I felt like a superhero. I spent the next day walking them through how to wipe, reinstall and then clone their systems. 
 
- 🎬 SLIDES 11/12 — Making IT Affordable: Innovation Through Recycling
+ 🎬 SLIDES 13/14 — Making IT Affordable: Innovation Through Recycling
 
 SCRIPT:
 Another impact I am quite proud of is how I made my services more affordable while also protecting the environment. I didn't just lower my rates—I fundamentally rethought how IT support could work. 
@@ -84,7 +84,7 @@ One of my clients owned a pawn shop and I would sometimes help him unlock tablet
 I re-purposed tens of thousands of dollars in parts and equipment this way and passed those savings on as well as keeping all those parts out of the landfills for a little longer and extending their viable lives. Unfortunately, this method of impact is no longer as viable due to companies now insisting on not having upgradable parts in their computers.
 
 
-SLIDES 13/14  — Leadership as a Woman in IT
+SLIDES 15/16 — Leadership as a Woman in IT
 
 SCRIPT:
 Another community that I believe that I’ve had an impact on is women in the IT sector. Being one of a very limited number of women in the IT industry means I'm not just building my own career—I'm setting a standard. I'm creating a path. And I'm proving what women in this field are capable of.
@@ -97,7 +97,7 @@ For those of us who are coming first in this industry, it is essential that we s
 
 ---
 
- 🎬 SLIDES 15/16 — Why I'm Pursuing My MLIS at SJSU
+ 🎬 SLIDES 17/18 — Why I'm Pursuing My MLIS at SJSU
 
 SCRIPT:
 One thing I have not addressed in this application to date is why I am pursuing my masters in Library Science and why through SJSU. 
@@ -114,7 +114,7 @@ Through this program, I’ll be able to extend the reach of the work I’m alrea
 
 ---
 
- 🎬 SLIDES 17/18 — Future Vision
+ 🎬 SLIDES 19/20 — Future Vision
 
 SCRIPT: 
 To be honest, I don't know exactly where I'm going to end up after this program. I’d like to think it will be in a library but the truth is, despite falling into it by accident I have found a deep sense of purpose in my desire to help others navigate rapidly changing technology and helping to keep them safe from rapidly expanding threats. 
@@ -123,7 +123,7 @@ Librarians have always seemed like the guardians of  the world's knowledge. I wa
 
 ---
 
- 🎬 SLIDES 19/20   — Impact Summary
+ 🎬 SLIDES 21/22   — Impact Summary
 
 SCRIPT:
 "When you think about my application, I hope you remember four things:
@@ -135,3 +135,4 @@ I am a Leader/Role Model. I began and ran my own IT company from the ground up a
 I am an Advocate. I'm an advocate for the importance of small businesses. For sustainability and environmental contentiousness over consumerism.  I’m an advocate for accessible and empowering technology. I'm an advocate for good cybersecurity practices that serve to protect all of us. And I'm an advocate and example of what women in tech can accomplish and just how far we can go.
 
 But more than anything else I am a librarian. I am a custodian and defender of knowledge. And I will make you proud of me.
+
