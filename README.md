@@ -134,5 +134,16 @@ I am a Leader/Role Model. I began and ran my own IT company from the ground up a
 
 I am an Advocate. I'm an advocate for the importance of small businesses. For sustainability and environmental contentiousness over consumerism.  I’m an advocate for accessible and empowering technology. I'm an advocate for good cybersecurity practices that serve to protect all of us. And I'm an advocate and example of what women in tech can accomplish and just how far we can go.
 
-But more than anything else I am a librarian. I am a custodian and defender of knowledge. And I will make you proud of me.
 
+ 🎬 SLIDES 21/22   — Impact Summary
+
+SCRIPT:
+"When you think about my application, I hope you remember four things:
+
+I am a Creator. I create apps, board games, web tools, interfaces, opportunities, solutions, literature, and help for anybody I can. 
+
+I am a Leader/Role Model. I began and ran my own IT company from the ground up as a young female in a male-dominated industry. I supported my community and the businesses within it—regardless of budget. I pioneered a new model for affordable and empowering IT services. I opened doors and tore down walls for all the women who come after me. 
+
+I am an Advocate. I'm an advocate for the importance of small businesses. For sustainability and environmental contentiousness over consumerism.  I’m an advocate for accessible and empowering technology. I'm an advocate for good cybersecurity practices that serve to protect all of us. And I'm an advocate and example of what women in tech can accomplish and just how far we can go.
+
+But more than anything else I am a librarian. I am a custodian and defender of knowledge. A believer in ideas. It is these four fundamental values of mine that demonstrate my commitment to not only impact but be a leader in my communities. I don’t think it’s possible to avoid having an impact on any community if you are truly committed to those four foundations. I hope what I have shown you in this presentation is not only my commitment to those four values but my ability to stand out from the crowd. I hope I have not only shown I can be a leader but that I also have the qualities to be a good leader. Once those four values are firmly established and they start impacting your community It only gets better from there. I’m looking forward to finding new ways that I can help impact and serve the School of Information and the greater SJSU communities as well.  
