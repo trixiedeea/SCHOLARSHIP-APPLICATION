@@ -1,8 +1,5 @@
 Scholarship Application Presentation Script
 "Building Accessible Technology: Impacting Communities Through Innovation and Leadership”
-
-Scholarship Application Presentation Script
-"Building Accessible Technology: Impacting Communities Through Innovation and Leadership”
  
  
  🎬 SLIDE 1 — Title Slide
