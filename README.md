@@ -18,7 +18,7 @@ SCRIPT:
  
 I am a millennial, which gives me a unique position because of my age and experience. My generation has interacted with computer technology from the very beginning. I remember DOS-only platforms where everything was command-line controlled and the mouse didn't exist. I remember before there was Google, internet and social media. Never again will a generation interact with the bell curve of computer technology from the beginning to where it is now in the way mine has. We were removed enough that we can function perfectly well without it but not so old we couldn’t really understand it. Computer technology grew up alongside us and I think it’s been easier for us to understand because of that. We know the foundation because we watched as it was built.
  
-I am a multi-linguist fluent in French, English, JavaScript and python and an avid learner who has taught myself basic electronic circuitry, wiring and repair, software troubleshooting and repair; learned to love the command line, and have accumulated enough tricks and little backdoors— that I'm actually putting them together in a manual right now.
+I am a multi-linguist fluent in French, English, JavaScript and python and an avid learner who has taught myself basic electronic circuitry, wiring and repair, software troubleshooting and repair; and I have learned to love the command line.
  
 ---
  
